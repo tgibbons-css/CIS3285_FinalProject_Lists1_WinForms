@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIS3285_FinalProject_Lists1_WinForms", "CIS3285_FinalProject_Lists1_WinForms\CIS3285_FinalProject_Lists1_WinForms.csproj", "{5AB1C49A-9E19-432B-B361-7DA66AEC674C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4281AE65-D5AC-41D9-B93D-CCF1B572120D}"
+	ProjectSection(SolutionItems) = preProject
+		CIS3285_FinalProject_Lists1_WinForms\bin\Debug\FinalProjLists.mdf = CIS3285_FinalProject_Lists1_WinForms\bin\Debug\FinalProjLists.mdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
