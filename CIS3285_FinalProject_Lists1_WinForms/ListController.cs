@@ -12,12 +12,12 @@ namespace CIS3285_FinalProject
     class ListController
     {
         private ShoppingList shoppingList;
-        private ShoppingItemRepository itemDbRepository;
+        private ShoppingRepository itemDbRepository;
 
         public ListController()
         {
             // Read the initial list from the database repository
-            itemDbRepository = new ShoppingItemRepository();
+            itemDbRepository = new ShoppingRepository();
             shoppingList = new ShoppingList(itemDbRepository.ReadAll());
         }
         public void CreateshoppingItem(string Name, int amount)

@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		CIS3285_FinalProject_Lists1_WinForms\bin\Debug\FinalProjLists.mdf = CIS3285_FinalProject_Lists1_WinForms\bin\Debug\FinalProjLists.mdf
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIS3285_FinalProject_Lists1_WinFormsTests", "CIS3285_FinalProject_Lists1_WinFormsTests\CIS3285_FinalProject_Lists1_WinFormsTests.csproj", "{AC895708-C8FA-49E6-8911-5341684D8366}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{5AB1C49A-9E19-432B-B361-7DA66AEC674C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AB1C49A-9E19-432B-B361-7DA66AEC674C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AB1C49A-9E19-432B-B361-7DA66AEC674C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC895708-C8FA-49E6-8911-5341684D8366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC895708-C8FA-49E6-8911-5341684D8366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC895708-C8FA-49E6-8911-5341684D8366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC895708-C8FA-49E6-8911-5341684D8366}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

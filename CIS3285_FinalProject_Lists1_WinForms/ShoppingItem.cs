@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CIS3285_FinalProject
 {
-    class ShoppingItem : IListItem
+    public class ShoppingItem : IListItem
     {
         Guid id;
         string name;
